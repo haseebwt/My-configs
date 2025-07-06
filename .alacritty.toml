@@ -1,0 +1,23 @@
+[window]
+# opacity = 0.3
+title = "poop"
+
+[colors.primary]
+background = "#303e44"
+foreground = "#dbd3bb"
+
+[font]
+normal.family = "Hack"
+bold.family = "Hack"
+italic.family = "Hack"
+bold_italic.family = "Hack"
+
+size = 14.0
+
+[cursor]
+style.shape = "Block"
+style.blinking = "Always"
+
+[terminal]
+shell = { program = "/bin/zsh", args = ["-l"] }
+
